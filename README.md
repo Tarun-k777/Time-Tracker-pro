@@ -12,6 +12,6 @@
   </style>
 </head>
 <body>
-  <iframe src="https://yourtool.lovable.app"></iframe>
+  <iframe src="https://task-log.lovable.app/"></iframe>
 </body>
 </html>
